@@ -1,0 +1,6 @@
+{
+  "name": "Student Textbook Marketplace",
+  "description": "A peer-to-peer textbook marketplace for students to buy, sell, and swap course materials locally.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
